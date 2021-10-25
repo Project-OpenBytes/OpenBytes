@@ -1,38 +1,22 @@
-```gfm
-# insert project logo - replace the below logo location with the location of your logo
-![](https://github.com/lfai/artwork/blob/master/projects/PROJECT NAME/PROJECT NAME-color.svg)
-```
 
-```gfm
-# Add badges that point to your LICENSE, CII status, and build environment (if it exists). Check out other badges to add at https://shields.io/
-![GitHub](https://img.shields.io/github/license/lfenergy/PROJECT NAME)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/CII ID/badge)](https://bestpractices.coreinfrastructure.org/projects/CII ID)
-```
+![](https://us-tutu.s3.us-west-1.amazonaws.com/company-website/OpenBytes/Mobile/logo.png)
 
-# PROJECT NAME
+# OpenBytes
 
-_2-3 sentence description of the project_
-
-## Install
-
-_Provide install instructions here or point to an INSTALL.md file_
-
-## Build
-
-_Provide build instructions here or point to an BUILD.md file_
+We are a non-profit open data project hosted under the Linux Foundation with neutral governance, aiming to bring transformational changes to AI by making open datasets more available and accessible.
 
 ## Discussion
 
 You can connect with the community in a variety of ways...
 
-- [LINK TO MAILING LIST](https://lists.lfaidata.foundation/g/xxxx-discussion)
-- [#PROJECT NAME channel on LF AI and Data Slack](https://slack.lfaidata.foundation)
+
+- [OpenBytes Slack](https://openbytes.slack.com/join/shared_invite/zt-xmlybz36-kc7SnQnmrIyz1m79oOu6pg#/shared-invite/email)
 
 ## Contributing
 Anyone can contribute to the PROJECT NAME project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Governance
-PROJECT NAME is a project hosted by the [LF AI and Data Foundation](https://lfaidata.foundation). This project's techincal charter is located in [CHARTER.md](tsc/CHARTER.md) and has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+PROJECT NAME is a project hosted by the [LF AI and Data Foundation](https://lfaidata.foundation). This project's techincal charter is located in [CHARTER.md](OpenBytes/CHARTER.md) and has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Reporting Issues
 To report a problem, you can open an [issue](https://github.com/lfai/PROJECT NAME/issues) in repository against a specific workflow. If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email PROJECT NAME-private@lists.lfaidata.foundation.
