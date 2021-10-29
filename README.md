@@ -19,4 +19,4 @@ Anyone can contribute to the OpenBytes project - learn more at [CONTRIBUTING.md]
 OpenBytes is a project hosted by the [LF AI and Data Foundation](https://lfaidata.foundation). This project has established it's own processes for managing day-to-day processes in the project, and the techincal charter is located in at [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Reporting Issues
-To report a problem, you can open an [issue](https://github.com/lfai/PROJECT NAME/issues) in repository against a specific workflow. If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email PROJECT NAME-private@lists.lfaidata.foundation.
+To report a problem, you can open an [issue](https://github.com/Project-OpenBytes/OpenBytes/issues) in repository against a specific workflow. If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email openbytes-private@lists.lfaidata.foundation.
