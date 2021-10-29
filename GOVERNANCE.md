@@ -113,7 +113,7 @@ with the terms of this Charter.
 >
 > ii\. All new inbound software source code contributions to the Project must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the "Source Code License").
 >
-> iii\. All new inbound software source code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org]{.ul}) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
+> iii\. All new inbound software source code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
 
 > iv\. All outbound code will be made available under the Source Code License.
 
