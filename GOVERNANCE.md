@@ -79,7 +79,7 @@ with the terms of this Charter.
 
 3
 
-> b\. The TSC may adopt a code of conduct ("CoC") for the Project, which is subject to approval by the Series Manager. In the event that a Project-specific CoC has not been approved, the LF Projects Code of Conduct listed at [https://lfprojects.org/policies]{.ul} will apply for all Collaborators in the Project.
+> b\. The TSC may adopt a code of conduct ("CoC") for the Project, which is subject to approval by the Series Manager. In the event that a Project-specific CoC has not been approved, the LF Projects Code of Conduct listed at https://lfprojects.org/policies/code-of-conduct/ will apply for all Collaborators in the Project.
 
 > c\. When amending or adopting any policy applicable to the Project, LF Projects will publish such policy, as to be amended or adopted, on its web site at least 30 days prior to such policy taking effect; provided, however, that in the case of any amendment of the Trademark Policy or Terms of Use of LF Projects, any such amendment is effective upon publication on LF Project's web site.
 >
@@ -111,7 +111,7 @@ with the terms of this Charter.
 >
 > i\. To the extent a contribution includes or consists of data, any rights in such data shall be made available under the CDLA-Permissive 2.0 License, available at https://cdla.io/permissive-2-0/.
 >
-> ii\. All new inbound software source code contributions to the Project must be made using the Apache License, Version 2.0, available at [https://www.apache.org/licenses/LICENSE-2.0]{.ul}\] (the "Source Code License").
+> ii\. All new inbound software source code contributions to the Project must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the "Source Code License").
 >
 > iii\. All new inbound software source code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org]{.ul}) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
 
@@ -119,7 +119,7 @@ with the terms of this Charter.
 
 > v\. Data models, formats and labels as well as other specifications to be developed by the Project will use the Community Specification License Agreement 1.0 (available at https://github.com/CommunitySpecification/1.0).
 >
-> vi\. Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License  (available at [http://creativecommons.org/licenses/by/4.0/]{.ul}).
+> vi\. Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License  (available at http://creativecommons.org/licenses/by/4.0/).
 >
 > vii\. The Project may seek to integrate and contribute back to other open data, open specification and open source projects ("Upstream Projects"). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project's main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 >
