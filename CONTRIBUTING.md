@@ -7,7 +7,7 @@ Thank you for your interest in contributing to OpenBytes! This document explains
 * [Development Workflow](#Development-Workflow)
 * [Coding Style](#Coding-Style)
 
-For a description of the roles and responsibilities of the various members of the Openbytes community, see the [governance policies], and for further details, see the project's [Technical Charter]. Briefly, Contributors are anyone who submits content to the project, Committers review and approve such submissions, and the Technical Steering Committee provides general project oversight.
+For a description of the roles and responsibilities of the various members of the Openbytes community and further details, see the [governance policies]. Briefly, Contributors are anyone who submits content to the project, Committers review and approve such submissions, and the Technical Steering Committee provides general project oversight.
 
 If you just need help or have a question, refer to [SUPPORT.md](SUPPORT.md).
 
@@ -28,7 +28,6 @@ Project committers will review the contribution in a timely manner, and advise o
 
 
 [governance policies]: GOVERNANCE.md
-[Technical Charter]: tsc/CHARTER.md
 [copyright and license headers]: https://github.com/lfai/tac/blob/main/process/contribution_guidelines.md#license
 [Developer Certificate of Origin signoff]: https://github.com/lfai/tac/blob/main/process/contribution_guidelines.md#contribution-sign-off
 
