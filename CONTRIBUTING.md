@@ -22,7 +22,7 @@ Each contribution must meet the [coding style] and include..
 * A [Developer Certificate of Origin signoff].
 * Submitted to the project as a pull request.
 
-OpenBytes is licensed under the [LICENSE NAME](LICENSE.md) license. Contributions should abide by that standard license.
+OpenBytes is licensed under the [Creative Commons Attribution 4.0 International](LICENSE) license. Contributions should abide by that standard license.
 
 Project committers will review the contribution in a timely manner, and advise of any changes needed to merge the request.
 
