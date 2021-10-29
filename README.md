@@ -16,7 +16,7 @@ You can connect with the community in a variety of ways...
 Anyone can contribute to the OpenBytes project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Governance
-OpenBytes is a project hosted by the [LF AI and Data Foundation](https://lfaidata.foundation). This project's techincal charter is located in [CHARTER.md](OpenBytes/CHARTER.md) and has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+OpenBytes is a project hosted by the [LF AI and Data Foundation](https://lfaidata.foundation). This project has established it's own processes for managing day-to-day processes in the project, and the techincal charter is located in at [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Reporting Issues
 To report a problem, you can open an [issue](https://github.com/lfai/PROJECT NAME/issues) in repository against a specific workflow. If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email PROJECT NAME-private@lists.lfaidata.foundation.
